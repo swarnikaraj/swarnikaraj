@@ -1,5 +1,5 @@
 
-<img src="http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png" width="900px" align="center">
+<img src="http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png" width="1200px" align="right">
 
 <h1 align="center">Hi 👋, I'm Swarnnika Raj Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
