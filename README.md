@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/drive/u/0/my-drive" width="1200px" align="right">
+<img src="img/gith.png" width="1200px" align="right">
 
 <h1 align="center">Hi 👋, I'm Swarnnika Raj Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
