@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1COS8jRBCgJ7NrOlXLg6v5CMC7ay3L4Rk/view?usp=sharing" width="1200px" align="right">
+<img src="https://drive.google.com/drive/u/0/my-drive" width="1200px" align="right">
 
 <h1 align="center">Hi 👋, I'm Swarnnika Raj Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
