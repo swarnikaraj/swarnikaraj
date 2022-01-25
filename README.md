@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://swarnikaraj.github.io/portfolio_mine/](https://swarnikaraj.github.io/portfolio_mine/)
+- 👨‍💻 All of my projects are available at [https://swarnnika.netlify.app/](https://swarnnika.netlify.app/)
 
 - 📝 I write articles on [https://foodscience-technology.com/](https://foodscience-technology.com/)
 
