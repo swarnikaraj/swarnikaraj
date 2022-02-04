@@ -14,7 +14,7 @@
 
 - 📝 I write articles on [https://foodscience-technology.com/](https://foodscience-technology.com/)
 
-- 💬 Ask me about **DSA, Backend development with Node js, Python**
+- 💬 Ask me about **React, Redux, DSA, Backend development with Node js,**
 
 - 📫 How to reach me **swarnnikarajsingh@gmail.com**
 
