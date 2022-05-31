@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnikaraj" alt="swarnikaraj" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently working as Software Engineer at Omnicell learning 
 
 - 👨‍💻 All of my projects are available at [https://swarnnikarajsingh.vercel.app/](https://swarnnikarajsingh.vercel.app//)
 
