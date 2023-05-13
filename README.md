@@ -8,17 +8,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnikaraj" alt="swarnikaraj" /></a> </p>
 
-- 🌱 I’m currently working as Software Engineer at Omnicell
+- 🌱 I’m currently working as Software Engineer at Teg Analytics
 
 - 👨‍💻 All of my projects are available at [https://swarnnikarajsingh.vercel.app/](https://swarnnikarajsingh.vercel.app//)
 
-- 📝 I write articles on [https://foodscience-technology.com/](https://foodscience-technology.com/)
-
-- 💬 Ask me about **React, Redux, DSA, Backend development with Node js,**
+- 💬 Ask me about **MERN ,web3, Java, Azure , Python**
 
 - 📫 How to reach me **swarnnikarajsingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zvNxAyYBG7OukeSYFWeyvE7ZbvVYMhXA/view?usp=sharing](https://drive.google.com/file/d/1zvNxAyYBG7OukeSYFWeyvE7ZbvVYMhXA/view?usp=sharing)
 
 ### Blogs posts
 
