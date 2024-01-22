@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://swarnnikarajsingh.vercel.app/](https://swarnnikarajsingh.vercel.app//)
 
-- 💬 Ask me about **MERN ,web3, Azure , Python**
+- 💬 Ask me about **MERN ,Golang, web3, Azure ,Aws,  Python**
 
 - 📫 How to reach me **swarnnikarajsingh@gmail.com**
 
