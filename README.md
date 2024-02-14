@@ -23,10 +23,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/swarnnika-raj-singh-a6731914b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarnnika-raj-singh-a6731914b" height="30" width="40" /></a>
   
-<a href="https://instagram.com/swarnikarajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swarnikarajsingh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@swarnnika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@swarnnika" height="30" width="40" /></a>
-<a href="https://medium.com/@swarnnikarajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swarnnikarajsingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swarnikarajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swarnikarajsingh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/swarnika.eth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swarnikarajsingh" height="30" width="40" /></a>
+
+
 </p>
 
 
