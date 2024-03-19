@@ -1,5 +1,5 @@
 
-<img src="img/gith.png" width="1200px" align="right">
+
 
 <h1 align="center">Hi 👋, I'm Swarnnika Raj Singh</h1>
 <h3 align="center">A passionate Programmer</h3>
