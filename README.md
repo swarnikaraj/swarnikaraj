@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnikaraj" alt="swarnikaraj" /></a> </p>
 
-- 🌱 I’m currently working as Software Engineer at Teg Analytics
+- 🌱 I’m currently working as Software Engineer at UST
 
 - 📫 How to reach me **swarnnikarajsingh@gmail.com**
 
