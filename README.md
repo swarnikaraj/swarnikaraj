@@ -27,7 +27,3 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnikaraj&show_icons=true&locale=en&theme=dracula" alt="swarnikaraj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnikaraj&theme=tokyonight" alt="swarnikaraj" /></p>
