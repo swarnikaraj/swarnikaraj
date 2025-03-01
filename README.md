@@ -28,12 +28,12 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Engineer** with a kn
 
 ### Languages & Frameworks:
 - **Programming:** TypeScript, JavaScript, Golang, Python, Solidity
-- **Frameworks:** React, Next.js, Express, Flask, FastAPI
+- **Frameworks:** Reactjs, NextJs, Express, Flask, FastAP
 
 ### Tools & Platforms:
 - **Cloud:** AWS, GCP, Azure
-- **Databases:** MongoDB, MySQL, PostgreSQL, Redis
-- **DevOps:** Docker
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis, VectorDbs
+- **DevOps:** Docker, Kubernetes
 - **Blockchain:** Web3 Development, Smart Contracts, NFT Launches
 - **AI Tools:** OpenAI, Hugging Face, LangChain, TensorFlow, PyTorch
 - **Other Skills:** WebRTC, REST APIs, WebSockets, Microservices Architecture
