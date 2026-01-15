@@ -1,82 +1,86 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Swarnnika Raj Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnikaraj&label=Profile%20views&color=0e75b6&style=flat" alt="swarnikaraj" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=swarnikaraj&label=Profile%20views&color=0e75b6&style=flat" alt="swarnikaraj" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Engineer** with a knack for building robust, scalable, and innovative solutions across various domains. Here's a little more about me:
+I’m a **software engineer** with a strong focus on **backend, platform, and cloud-native systems**.  
+I enjoy building **scalable, reliable systems** and understanding how real infrastructure works beyond frameworks and tutorials.
 
----
-
-## 🚀 About Me
-
-- **💼 Current Role:** SDE-III at **UST**
-- **🌐 Tech Expertise:**
-  - **Frontend:** React, TypeScript, JavaScript, Next.js
-  - **Backend:** Node.js, Express, Golang, Python
-  - **Full Stack:** Nextjs, MERN (MongoDB, Express, React, Node.js)
-  - **Blockchain & Web3:** Solidity, Smart Contracts, Web3.js, ethers.js
-- **🤖 AI Enthusiast:**
-  - Experience in **Artificial Intelligence** and **Generative AI** projects
-  - Created **Gentuber**, an AI-powered tool for YouTubers
-  - Passionate about creating intelligent, human-like, and adaptive systems
+This GitHub profile reflects my journey across **full-stack development, backend systems, and AI-driven platforms**, with an increasing focus on **system design and platform engineering**.
 
 ---
 
-## 🛠️ Skills
+## 🧭 About Me
 
-### Languages & Frameworks:
-- **Programming:** TypeScript, JavaScript, Golang, Python, Solidity
-- **Frameworks:** Reactjs, NextJs, Express, Flask, FastAP
-
-### Tools & Platforms:
-- **Cloud:** AWS, GCP, Azure
-- **Databases:** MongoDB, MySQL, PostgreSQL, Redis, VectorDbs
-- **DevOps:** Docker, Kubernetes
-- **Blockchain:** Web3 Development, Smart Contracts, NFT Launches
-- **AI Tools:** OpenAI, Hugging Face, LangChain, TensorFlow, PyTorch
-- **Other Skills:** WebRTC, REST APIs, WebSockets, Microservices Architecture
+- 💼 **Experience:** Backend / Full-Stack / Platform Engineering
+- 🧠 Interested in **system design, distributed systems, and AI infrastructure**
+- 🏗️ Enjoy building things end-to-end and understanding tradeoffs
+- 🌱 Continuously learning and refining fundamentals
 
 ---
 
-## 🌟 Highlights
+## 🛠️ Technical Skills
 
-- Architected and deployed **scalable full-stack solutions** for high-traffic environments.
-- Designed and implemented **AI-driven systems** for process automation and intelligent insights.
-- Developed and launched my own **NFT projects**, diving deep into blockchain and Web3.
-- Created **Gentuber**(https://www.gentuber.com), a SAAS based AI-powered platform for YouTubers to enhance their content creation.
-- Experienced in optimizing performance for **cloud-native applications**.
+### Languages
+- JavaScript / TypeScript  
+- Go  
+- Python  
+
+### Backend & Systems
+- REST APIs, background workers, async processing
+- Node.js, Express, FastAPI
+- Microservices & service boundaries
+
+### Frontend
+- React
+- Next.js
+
+### Cloud & Infrastructure
+- Docker
+- Kubernetes (working knowledge)
+- AWS / GCP / Azure
+- CI/CD fundamentals
+
+### Data & Storage
+- PostgreSQL, MySQL
+- MongoDB
+- Redis
+- Vector databases
+  
+### AI / Generative AI
+- RAG pipelines
+- OpenAI / Hugging Face APIs
+- LangChain (used selectively, not as a black box)
 
 ---
 
-## 🌐 What I’m Working On
+## 🌟 What I Work On
 
-- **AI & Generative AI Projects:** Exploring the boundaries of machine intelligence.
-- **Web3 Development:** Innovating with blockchain and decentralized technologies.
-- **Full-Stack Development:** Crafting seamless user experiences with scalable backends.
+- Backend and platform-oriented services
+- Cloud-native applications
+- AI-assisted systems with real-world constraints
+- Side projects to explore architecture, reliability, and scale
 
----
-
-## 📚 Learning & Growing
-
-- **Currently Exploring:**
-  - Advanced AI models and frameworks
-  - Golang for backend scalability
+I prefer **clarity over cleverness** and **understanding over shortcuts**.
 
 ---
 
-## 📣 Let’s Connect
+## 📚 Currently Learning
 
-- **LinkedIn:** [Swarnnika Raj Singh]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/swarnnika/))
-- **Portfolio:** [Porfolio](https://swarnnika.vercel.app)
+- Platform engineering patterns (control plane vs data plane)
+- Distributed systems fundamentals
+- Cost and reliability considerations in AI systems
+- Writing better design docs before writing code
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/swarnnika/
+- **Portfolio:** https://swarnnika.vercel.app
 - **Email:** swarnikarajsingh@gmail.com
 
 ---
 
-Thank you for stopping by! Let’s build something amazing together. 🚀
-
-
-
-
-
+Thanks for visiting — feel free to explore the repositories and projects here.
