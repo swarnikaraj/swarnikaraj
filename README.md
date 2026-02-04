@@ -5,7 +5,7 @@
 </p>
 
 I’m a **software engineer** with a strong focus on **backend, platform, and cloud-native systems**.  
-I enjoy building **scalable, reliable systems** and understanding how real infrastructure works beyond frameworks and tutorials.
+I enjoy building **scalable, reliable systems** and understanding how real infrastructure works .
 
 This GitHub profile reflects my journey across **full-stack development, backend systems, and AI-driven platforms**, with an increasing focus on **system design and platform engineering**.
 
