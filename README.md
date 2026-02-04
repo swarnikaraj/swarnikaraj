@@ -23,18 +23,14 @@ This GitHub profile reflects my journey across **full-stack development, backend
 ## 🛠️ Technical Skills
 
 ### Languages
-- JavaScript / TypeScript  
 - Go  
-- Python  
+- Python
+- JavaScript / TypeScript 
 
 ### Backend & Systems
-- REST APIs, background workers, async processing
-- Node.js, Express, FastAPI
-- Microservices & service boundaries
-
-### Frontend
-- React
-- Next.js
+- REST APIs, background workers, async processing, Queue, GRPC
+- Gin Gonic, Mux, FastAPI, Express
+- Microservices & service boundaries, Distributed System
 
 ### Cloud & Infrastructure
 - Docker
@@ -61,8 +57,6 @@ This GitHub profile reflects my journey across **full-stack development, backend
 - Cloud-native applications
 - AI-assisted systems with real-world constraints
 - Side projects to explore architecture, reliability, and scale
-
-I prefer **clarity over cleverness** and **understanding over shortcuts**.
 
 ---
 
