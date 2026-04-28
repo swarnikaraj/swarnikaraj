@@ -28,7 +28,7 @@ This GitHub profile reflects my journey across **full-stack development, backend
 - JavaScript / TypeScript 
 
 ### Backend & Systems
-- REST APIs, background workers, async processing, Queue, GRPC
+- REST APIs, background workers, async processing, Queue, GRPC, GraphQL
 - Gin Gonic, Mux, FastAPI, Express
 - Microservices & service boundaries, Distributed System
 
