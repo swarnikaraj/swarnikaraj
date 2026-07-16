@@ -1,71 +1,48 @@
-<h1 align="center">Hi 👋, I'm Swarnnika Raj Singh</h1>
+# Hi, I'm Swarnnika 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swarnikaraj&label=Profile%20views&color=0e75b6&style=flat" alt="swarnikaraj" />
-</p>
+Platform Engineer building cloud platforms, distributed systems, and AI infrastructure.
 
-I’m a **software engineer** with a strong focus on **backend, platform, and cloud-native systems**.  
-I enjoy building **scalable, reliable systems** and understanding how real infrastructure works .
-
-This GitHub profile reflects my journey across **full-stack development, backend systems, and AI-driven platforms**, with an increasing focus on **system design and platform engineering**.
+I'm passionate about building infrastructure and platform capabilities that improve how engineers build and operate software.  
+I enjoy understanding how production systems work beneath the abstractions, then building tools that make that complexity easier for other engineers.  
+Currently building platform capabilities at HashiCorp while exploring cloud infrastructure and distributed systems through open-source and personal projects.
 
 ---
 
-## 🧭 About Me
+## What I Build
 
-- 💼 **Experience:** Backend / Full-Stack / Platform Engineering
-- 🧠 Interested in **system design, distributed systems, and AI infrastructure**
-- 🏗️ Enjoy building things end-to-end and understanding tradeoffs
-- 🌱 Continuously learning and refining fundamentals
+I work on production platform systems that improve how engineering teams ship and operate software:
 
----
-
-## 🛠️ Technical Skills
-
-### Languages
-- Go  
-- Python
-- JavaScript / TypeScript 
-
-### Backend & Systems
-- REST APIs, background workers, async processing, Queue, GRPC, GraphQL
-- Gin Gonic, Mux, FastAPI, Express
-- Microservices & service boundaries, Distributed System
-
-### Cloud & Infrastructure
-- Docker
-- Kubernetes (working knowledge)
-- AWS / GCP / Azure
-- CI/CD fundamentals
-
-### Data & Storage
-- PostgreSQL, MySQL
-- MongoDB
-- Redis
-- Vector databases
-  
-### AI / Generative AI
-- RAG pipelines
-- OpenAI / Hugging Face APIs
-- LangChain (used selectively, not as a black box)
+- Internal developer platforms
+- Control planes and cloud-native backend services
+- Infrastructure automation and platform tooling
+- Distributed backend systems in Go
+- Infrastructure and backend systems that support modern AI workloads
 
 ---
 
-## 🌟 What I Work On
+## Engineering Lens
 
-- Backend and platform-oriented services
-- Cloud-native applications
-- AI-assisted systems with real-world constraints
-- Side projects to explore architecture, reliability, and scale
+- **Reliability over novelty** — predictable systems win in production.
+- **Abstractions with operational clarity** — every layer should stay debuggable.
+- **Platform as product** — internal systems should be intentional and usable.
+- **Design for failure first** — resilience is a design input, not a patch.
+- **Simplicity compounds** — simple interfaces scale across teams.
 
 ---
 
-## 📚 Currently Learning
+## Currently Exploring
 
-- Platform engineering patterns (control plane vs data plane)
-- Distributed systems fundamentals
-- Cost and reliability considerations in AI systems
-- Writing better design docs before writing code
+- Distributed systems trade-offs
+- AI infrastructure
+- Infrastructure reliability
+- Nomad & Terraform
+
+---
+
+## Currently Building
+
+- 🟢 **Kubernetes Experiments**
+- 🟢 **Platform Engineering Notes**
 
 ---
 
