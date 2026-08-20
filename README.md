@@ -39,12 +39,6 @@ I work on production platform systems that improve how engineering teams ship an
 
 ---
 
-## Currently Building
-
-- 🟢 **Kubernetes Experiments**
-- 🟢 **Platform Engineering Notes**
-
----
 
 ## 🔗 Connect With Me
 
