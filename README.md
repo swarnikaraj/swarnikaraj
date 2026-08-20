@@ -2,7 +2,7 @@
 
 Platform Engineer building cloud platforms, distributed systems, and AI infrastructure.
 
-I'm passionate about building infrastructure and platform capabilities that improve how engineers build and operate software.  
+I'm passionate about building platform capabilities that improve how engineers build and operate software.  
 I enjoy understanding how production systems work beneath the abstractions, then building tools that make that complexity easier for other engineers.  
 Currently building platform capabilities at HashiCorp while exploring cloud infrastructure and distributed systems through open-source and personal projects.
 
