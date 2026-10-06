@@ -20,22 +20,13 @@ I work on production platform systems that improve how engineering teams ship an
 
 ---
 
-## Engineering Lens
-
-- **Reliability over novelty** — predictable systems win in production.
-- **Abstractions with operational clarity** — every layer should stay debuggable.
-- **Platform as product** — internal systems should be intentional and usable.
-- **Design for failure first** — resilience is a design input, not a patch.
-- **Simplicity compounds** — simple interfaces scale across teams.
-
----
 
 ## Currently Exploring
 
 - Distributed systems trade-offs
 - AI infrastructure
 - Infrastructure reliability
-- Nomad & Terraform
+- Nomad , Terraform , Vaul , Consule
 
 ---
 
